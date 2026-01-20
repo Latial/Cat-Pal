@@ -43,7 +43,7 @@ Get things done — without killing the vibe. 💖
 - **Storage:** Local filesystem or Local Storage (update if needed)
 
 ---
-.
+
 ## 🖱️ Usage
 
 ### Working With Tasks
